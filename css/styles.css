@@ -1016,7 +1016,7 @@ nav {
     align-items: center;
     justify-content: space-between;
     transition: 250ms linear;
-    cursor: pointer;
+    /*cursor: pointer;*/
    
 }
 
